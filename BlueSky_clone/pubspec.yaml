@@ -1,0 +1,31 @@
+name: bluesky_clone
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/Pic1.jpg
+    - lib/assets/Pic2.jpg
+    - lib/assets/Pic3.jpg
+    - lib/assets/Pic4.jpg
+    - lib/assets/Pic5.jpg
+    - lib/assets/Pic6.jpg
+    - lib/assets/Logo.png
