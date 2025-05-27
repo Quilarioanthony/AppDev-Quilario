@@ -1,5 +1,5 @@
 
-# Blue sky Blue
+# Blue sky Clone
 
 this bluesky clone for windows and android
 
